@@ -192,8 +192,6 @@ Saved results as CSV files in the notebook's working directory.
 
 The program displays **five bar graphs**: one comparing ML prediction errors (MAE), two showing FCFS average waiting and turnaround times, and two showing the same measurements for SJF.
 
-The program also saves **11 CSV files** to the notebook's working directory: `ml_results.csv`, `scheduler_results.csv`, `test_job_predictions.csv`, and eight files named `simulation_FCFS_Actual.csv`, `simulation_FCFS_RF.csv`, `simulation_FCFS_SVR.csv`, `simulation_FCFS_NN.csv`, `simulation_SJF_Actual.csv`, `simulation_SJF_RF.csv`, `simulation_SJF_SVR.csv`, and `simulation_SJF_NN.csv`.
-
 **NOTE:** In the predicted scenarios, the simulator uses predicted runtimes as the simulated execution durations. Therefore, shorter simulated waiting or turnaround times do not necessarily mean that real jobs would execute faster.
 
 Record the results.
