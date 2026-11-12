@@ -1,4 +1,4 @@
-# Evaluating CPU Scheduling Algorithms Using Machine Learning Models
+# Machine Learning Models for Predicting CPU Burst Times for CPU Schedulers
 
 **Description:** Jupyter Notebook Python program that uses Random Forest (RF), Neural Network (NN), and Support Vector Regression (SVR) to predict CPU burst times. It also compares First Come, First Served (FCFS) and non-preemptive Shortest Job First (SJF) scheduling using actual and predicted runtimes. The program is designed to run in Google Colab.
 
